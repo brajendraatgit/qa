@@ -1,0 +1,6 @@
+name = "Question list"
+description = "Provides List of Questions"
+core = 7.x
+
+dependencies[] = entityform
+files[] = question_list.module
