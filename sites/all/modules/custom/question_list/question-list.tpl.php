@@ -1,3 +1,3 @@
-<div class="question-list container">
-  <?php print $entityform_ids; ?>
+<div class="question-list">
+  <?php print $question_rows; ?>
 </div>
